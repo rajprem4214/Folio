@@ -1,23 +1,55 @@
-## Project 1
-Description
-- Tags: Category 1
+## Cryptoverse
+Cryptoverse is an online platform to showcase cryptocurrencies.
+- Tags: Frontend
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Redux [yellow]
+  - API [green]
 - Buttons:
-  - Link [https://example.com]
+  - Demo [https://rajprem4214.github.io/CryptoVerse/]
 
-## Project 2
-Description
-- Tags: Category 2
+## Krypt
+A Web3 Site to transfer crypto and view all over the world.
+- Tags: Full Stack
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Blockchain [green]
 - Buttons:
-  - Link [https://example.com]
+  - Demo [https://rajprem4214.github.io/Krypt/]
 
-## Project 3
-Description
-- Tags: Category 3
+## Matdaan
+A Decentralised voting system using Ethereum Blockchain.
+- Tags: Full Stack
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Blockchain [green]
 - Buttons:
-  - Link [https://example.com]
+  - Github [https://github.com/rajprem4214/Matdaan]
+
+## Blog Backend API
+Blog Analytics and Search Tool.
+- Tags: Backend
+- Badges:
+  - Node JS [blue]
+  - Express JS [green]
+- Buttons:
+  - Github [https://github.com/rajprem4214/SubspaceApp]
+
+## Driver Monitoring API
+Driver Monitoring and Alert Service.
+- Tags: Backend
+- Badges:
+  - Node JS [blue]
+  - Express JS [green]
+- Buttons:
+  - Github [https://github.com/rajprem4214/Driver-Monitoring]
+
+## College Quora
+Quora for college students to ask questions.
+- Tags: Full Stack
+- Badges:
+  - React [blue]
+  - MERN [yellow]
+- Buttons:
+  - Github [https://github.com/rajprem4214/College-Quora]
+
