@@ -5,6 +5,7 @@ import './index.css';
 import App from './App';
 import theme from "./theme";
 import reportWebVitals from './reportWebVitals';
+import { Analytics } from '@vercel/analytics/react';
 // 1. Import the extendTheme function
 import { ChakraProvider } from "@chakra-ui/react";
 
@@ -14,6 +15,7 @@ root.render(
     <React.StrictMode>
       <ColorModeScript initialColorMode={theme.config.initialColorMode} />
       <App/>
+      <Analytics />
     </React.StrictMode>
   </ChakraProvider>
 );
