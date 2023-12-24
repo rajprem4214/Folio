@@ -30,6 +30,21 @@
   - Pioneered Context API to globally maintain user data and Google Data Analytics for user data tracking.
   - Developed and integrated Restful APIs in Python using Django framework.
 
+## Wrexa
+- *Backend Developer* | Nov'22 - Present
+- ![wrexa_technologies_logo](https://github.com/rajprem4214/ml/assets/85401522/ddc42cc2-5bf0-4908-9656-3325babb2c9c)
+- Tags: Startups
+- Badges:
+  - Next JS [blue]
+  - Typescript [yellow]
+  - NodeJS [green]
+  - Redux [purple]
+  - Postgres [yellow]
+- List Items:
+  - Worked as a Backend Developer, utilizing technologies such as NodeJS, Typescript, Drizzle ORM, Postgres, Cloud Storage, Notifications, Whatsapp Bot
+  - Elevated admin dashboard with a paginated user table and optimized navigation, fostering a seamless user experience.
+  - Integrated Novu for comprehensive email and WhatsApp notifications, empowering admins with tools for notification creation and management.
+
 ## Coding Platforms
 - *Competitive Programmer* | Oct'21 - Present
 - ![1519864832328](https://github.com/rajprem4214/rajprem4214/assets/85401522/b3791792-2180-4823-9496-7c3cec8255b7)
